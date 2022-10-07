@@ -1,6 +1,5 @@
-import logo from "./logo.svg";
 import "./App.css";
-import Tictactoc from "./components/Tictactoe";
+import Tictactoe from "./components/Tictactoe";
 
 function App() {
   return (
